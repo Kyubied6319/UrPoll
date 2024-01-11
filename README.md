@@ -1,5 +1,6 @@
 # PollsApplication
-```python django program to manage polls```
+> python django program to manage polls
+
 A python program that allows admins to add, change adn delete polls that users can view & vote in
 ## Installation
 
