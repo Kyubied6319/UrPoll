@@ -1,4 +1,5 @@
 # PollsApplication
+python django program to manage poll results
 ## Installation
 
 #### Windows
