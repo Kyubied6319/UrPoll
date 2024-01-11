@@ -1,7 +1,7 @@
 # PollsApplication
-> python django program to manage polls
+> python django program to host & manage polls
 
-A python program that allows admins to add, change adn delete polls that users can view & vote in
+A Python program that allows admins to host, add, change and delete polls. So that users can view & vote in them.
 ## Installation
 
 #### Windows
